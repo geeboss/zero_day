@@ -153,3 +153,78 @@ rm -r zero_day/
 ls
 clear
 cd
+ls
+cd zero_day/
+ls
+rm -r 0x00-vagrant/
+ls
+rm -r zero_day/
+clear
+ls
+cat README.md
+ls
+mkdir 0x00-vagrant
+cd 0x00-vagrant/
+ls
+touch README.md
+ls
+vi README.md
+ls
+cat README.md
+git add .
+cd ..
+ls
+git add .
+clear
+ls
+git status
+ls
+cd zero_day/
+ls
+git status
+ls
+clear
+cd
+ls
+git status
+ls
+git init
+git status
+git add 
+git add .
+ls 
+git status
+ls
+cd zero_day/
+ls
+git add .
+git commit -m "My first commit"
+git push
+git remote add origin https://github.com/geeboss/zero_day.git
+git push -u origin master
+git pull
+git clone 
+clear
+git config --global --unset http.proxy
+git add .
+git commit -m "My first commit"
+git push
+git push --set-upstream origin master
+git status
+git checkout 
+git branch
+ls
+cd zero_day/
+cd .
+cd ..
+ks
+ls
+clear
+ls
+git config --global --unset http.proxy
+git status
+git push
+https_proxy
+https_proxy=
+git push
+git push --set-upstream origin master
